@@ -1,6 +1,6 @@
 # zomato-restaurant-clustering-and-sentiment-analysis-
 
-Zomato is an Indian restaurant aggregator and food delivery start-up founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information and user reviews of restaurants and also has food delivery options from partner restaurants in selected cities.
+Zomato is an Indian restaurant aggregator and food delivery start-up founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information and user reviews of restaurants and also has food delivery options from partner restaurants in selected cities across.
 
 This clustering project revolves around the analysis of Zomato restaurant data of restaurants in Hyderabad, Telangana. The primary objectives are to gain valuable insights from customer sentiments and cluster restaurants into different segments. This project aims to provide benefits to both customers and the Zomato company.
 
