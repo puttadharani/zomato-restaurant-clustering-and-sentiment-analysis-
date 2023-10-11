@@ -6,7 +6,7 @@ This clustering project revolves around the analysis of Zomato restaurant data o
 
 **Key Project Components:**
 
-Data Collection: Gathering comprehensive Zomato restaurant data, including details, menus, reviews, and locations from Hyderabad.
+Data Collection: Gathering comprehensive Zomato restaurant data, including details, menus reviews, and locations from Hyderabad.
 
 Data Cleaning: Preprocessing the data to ensure its quality by handling missing values, duplicates, and inconsistencies.
 
